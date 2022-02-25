@@ -1,0 +1,657 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A prognosticall iudgement of the great coniunction of the two superiour planets, Saturne and Iupiter, which shall happen the 8. day of Aprill. 1583 the fruite of a godly minde, warning us to be mindfull of the sodaine comming of our Lord and Sauiour Christ to iudgement : a comfortable and most necessary discourse, for these miserable and dangerous dayes.</title>
+            <author>R. T. (Robert Tanner)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1583</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68798</idno>
+            <idno type="STC">STC 23676</idno>
+            <idno type="STC">ESTC S118135</idno>
+            <idno type="EEBO-CITATION">23188864</idno>
+            <idno type="OCLC">ocm 23188864</idno>
+            <idno type="VID">18725</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68798)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 18725)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 358:10 or 1782:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A prognosticall iudgement of the great coniunction of the two superiour planets, Saturne and Iupiter, which shall happen the 8. day of Aprill. 1583 the fruite of a godly minde, warning us to be mindfull of the sodaine comming of our Lord and Sauiour Christ to iudgement : a comfortable and most necessary discourse, for these miserable and dangerous dayes.</title>
+                  <author>R. T. (Robert Tanner)</author>
+               </titleStmt>
+               <extent>[63] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>By Thomas Dawson, at the Three Cranes in the vintree, at the assignement of R.W.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1583.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Epistle dedicatorie and preface signed: Robert Tanner.</note>
+                  <note>Imprint taken from colophon.</note>
+                  <note>Signatures: A-D⁸.</note>
+                  <note>Imperfect: at reel 1782:9 t.p. stained; at reel 358:10 t.p. lacking.</note>
+                  <note>Formerly STC 23675; different text from STC 517.9.--Cf. reel guide.</note>
+                  <note>Reproductions of originals in the Bodleian Library (reel 1782) and Henry E. Huntington Library and Art Gallery (reel 358).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astronomy --  Early works to 1800.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="text">
+            <pb facs="tcp:18725:1"/>
+            <pb facs="tcp:18725:1"/>
+            <p> ¶ <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ſticall iudge <hi>ment of <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> great coniuncti<g ref="char:EOLhyphen"/>on</hi> of the <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> superiour Planets, <hi>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which ſhall hap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 1583.</p>
+            <p>The <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> god<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> minde, wat<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap> of <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Sauiour Chriſt to iudge m<gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>A co<gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> moſt neceſſary diſ<g ref="char:EOLhyphen"/>co<gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> miſerable and <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> da<gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>1. Pet.</hi> 4. 7. The ende of all thinges is at hande, bee yee <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and watch vnto prayer.</p>
+            <p>
+               <hi>Luke</hi> 21, 36. VVatch continually<g ref="char:punc">▪</g> and pray, that yee may bee wo<gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>nger, this ſhall come: <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> And <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> before the Sonne of man.</p>
+            <p>1583.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:18725:2"/>
+            <pb facs="tcp:18725:2"/>
+            <head>To the right Honorable <hi>Lorde,</hi> Frauncis, <hi>Earle of</hi> Bedforde, one of her Maieſties moſt <hi>Honourable priuie Councell, Knight of the noble order of the Garter, grace</hi> and peace with God and man.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Oftentimes remem<g ref="char:EOLhyphen"/>bring (Right honou<g ref="char:EOLhyphen"/>rable Lorde) what accountes I haue to make for the ſmall talent which GOD hath deliuered mee to bee imployed vnto the beſt, and ſo my duetie that I doe owe vnto my natiue Countrie, am of force conſtrained to diuulgate and ſet abrod ſome part of my ſtudies, and trauailes in the Sciences Mathe<g ref="char:EOLhyphen"/>maticall, truſting thereby, my duti<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> towardes God and my Countrie, ſha<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be ſomwhat acquited. And as it is th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> accuſtomed maner of all thoſe that ſe<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> forth any booke worthie reading, to
+<pb facs="tcp:18725:3"/> ſelect and chooſe out either ſome per<g ref="char:EOLhyphen"/>ſon, who by reaſon of learning, vertu, wiſdome, &amp; ſuch other like orname<g ref="char:cmbAbbrStroke">̄</g>ts of the mind, is thought a worthie ſtay in a commo<g ref="char:cmbAbbrStroke">̄</g>wealth, or els ſuch as haue well of them deſerued, to whom they may yeeld the firſt fruites of their la<g ref="char:EOLhyphen"/>bors, &amp; dedicate their works finiſhed. In like maner, I hauing atchieued this my ſimple ſkill, in the ſetting foorth many reaſons &amp; probable co<g ref="char:cmbAbbrStroke">̄</g>iectures from the courſe of times, of theſe great co<g ref="char:cmbAbbrStroke">̄</g>iunctio<g ref="char:cmbAbbrStroke">̄</g>s of the 2. ſuperiour Planets <hi>Saturne</hi> &amp; <hi>Iupiter,</hi> in the beginning of waterie Trigon, &amp; now the ſame con<g ref="char:EOLhyphen"/>iu<g ref="char:cmbAbbrStroke">̄</g>ctio<g ref="char:cmbAbbrStroke">̄</g>s in the end of the ſame Trigon is like to happen, &amp; then turned in to firie Trigon. The which euents of the ſaid Planets doeth marueilouſly agree with the famous propheſie of Elias, &amp; many other places of ſcriptures, of the latter dayes of the worlds deſtruc<g ref="char:EOLhyphen"/>tio<g ref="char:cmbAbbrStroke">̄</g> to be neere at hande, &amp; that the
+<pb facs="tcp:18725:3"/> comming of our Lord &amp; Sauiour Ie<g ref="char:EOLhyphen"/>ſus Chriſt to iudgement, will not bee long. And hauing reſpect to your Lordſhips worthineſſe in the weale publik: alſo being animated with your beneuolent inclinatio<g ref="char:cmbAbbrStroke">̄</g>, &amp; the manifold benefites towards mee extended, doe boldly preſent and offer the ſame vnto your Honour, deſiring your beneuo<g ref="char:EOLhyphen"/>lent heart, to vouchſafe to bee Patrone of this my litle boke: and if I ſhal per<g ref="char:EOLhyphen"/>ceiue your good L. heerewith to be pleaſed, I ſhal hereafter (God giuing life) be incouraged to ſet foorth the re<g ref="char:EOLhyphen"/>ſidue of my ſtudies &amp; labours. Thus I, as one that eſteemeth nothing in this world more then your proſperous eſtate, do beſeech God to increaſe you in long life &amp; perfect proſperitie.</p>
+            <closer>
+               <signed>
+                  <hi>Your Lordſhips moſt humble to</hi> commaund, Robert Tanner.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:18725:4"/>
+            <head>The Preface</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">P</seg>Lato</hi> the Prince of Phi<g ref="char:EOLhyphen"/>loſophers who for his ex<g ref="char:EOLhyphen"/>cellent doctrine, contai<g ref="char:EOLhyphen"/>ning many things agree<g ref="char:EOLhyphen"/>able to the holy Scrip<g ref="char:EOLhyphen"/>ture, was called <hi>diuinus,</hi> amo<g ref="char:cmbAbbrStroke">̄</g>g many other his pre<g ref="char:EOLhyphen"/>cepts in Philoſophie, giueth vs this leſſon: <hi>Omnia amicorum ſunt communia,</hi> A<g ref="char:EOLhyphen"/>mongeſt friends all things are common. The which alſo in olde time was taken in cuſtome of the auncient Chriſtians, for I find it writ<g ref="char:EOLhyphen"/>ten in the Acts of the Apoſcies: <hi>Nemo eo<g ref="char:EOLhyphen"/>rum qui nomina Chriſto dederunt, quic<g ref="char:EOLhyphen"/>quam ſuum eſſe dicebat, ſed erant illis omnia communia:</hi> None of thoſe which were named Chriſtians, did affirme any thing to be their owne, but all things were common amongſt them. I therefore, deſiring to bee eſteemed among Chriſtians, doe thinke it wil be a ſhamefull thing for me to hide any thing ielouſly to my ſelfe: yea, although it bee neuer ſo ſimple, wherein I might hope ſomething to profite the common wealth, For it is euident that all men cannot offer golde, precious
+<pb facs="tcp:18725:4"/> ſtones, ſilke or purple, but there are alſo that doe gratifie &amp; ſhew a thing very thankefull, if they giue but a flower, or ſome thing of leſſe value, for this cauſe therefore I haue thought it good (Chriſtian Reader) to publiſh this my little booke, to the vſe of all Chriſti<g ref="char:EOLhyphen"/>ans, to beholde and marke Gods omnipotencie and goodneſſe, of diuers tokens &amp; warninges, not only before time ſent, but alſo diuers other tokens by theſe great coniunctions &amp; euents of the Planets is like to enſue. The conſidera<g ref="char:EOLhyphen"/>tion whereof, hath cauſed me for your com<g ref="char:EOLhyphen"/>fort, by writing to place before your eyes, ſuch vndoubted ſignes of his comming (although I will not take vpon me to tell the very houre, day, and yere, which is knowen to God alone) that eaſily you will beleeue and perſuade your ſelfe, that it will not bee long afore hee come. Perhaps there may be ſome maliu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lue moc<g ref="char:EOLhyphen"/>king perſon yet aliue, whoſe only practiſe is ſcoffing and ſcorning: yea, whom nothing, be it neuer ſo well, can content, that will finde faulte with our doinges, by reaſon they haue drunke ſuch a deepe draught of deſpight. I wil nothing at al be diſmaid, for why ſhould I? conſidering I haue written nothing, but that which is alreadie tried by the principles of
+<pb facs="tcp:18725:5"/> Aſtronomie, vnleſſe perhaps there bee ſome <hi>Midas aſininis auribus dignus,</hi> which doth iudge wrongfully of this notable ſcience, min<g ref="char:EOLhyphen"/>ding the vtter ſubuerſion of the ſame. And here I ſhall deſire the good Reader, that al<g ref="char:EOLhyphen"/>though ſome man pricked with pride ſhoulde put in print ſome peeuiſhe peece of woorke in diſpraiſe of Aſtronomie, thou wouldeſt giue no credite vnto his fooliſhe reaſons, ſith this Science hath heeretofore of the wiſeſt and learnedeſt men ben honoured. And further thou mayeſt gather, that whoſoeuer doth at<g ref="char:EOLhyphen"/>tempt the contempt of any one ſcie<g ref="char:cmbAbbrStroke">̄</g>ce, ſeemeth to be ignorant, not only of the ſame, but alſo of all good learning. For <hi>Cicero lib. 3. de ora.</hi> ſaith in this wiſe, <hi>Omnis ingenuarum &amp; humanarum artium doctrina vno quo<g ref="char:EOLhyphen"/>dam ſocietatis vinculo continetur:</hi> That is to ſay, All Arts liberall and humane are coupled or linked together with one hande of ſocietie. But Reader, I purpoſe not nowe to inueigh againſt thoſe kinde of perſons before ſpoken of, conſidering that it requireth more matter than can conueniently bee rehearſed in a ſhort Prologue. Wherefore to conclude, thou ſhalt vnderſtande that it is not the taunting toyes of ſkorners, nor the wreſting
+<pb facs="tcp:18725:5"/> wittes of the arrogant, is able to blemiſh our arte, as all auncient monuments of Wryters: yea, &amp; the orders of the Planets themſelues, (which for mans behoofe is the workmanſhip of God) doe manifeſty proue. And thus I make an ende, praying thee to take the paynes to reade this Booke, and learne therby to amend thy former wic<g ref="char:EOLhyphen"/>ked lyfe. Farewell good Chriſtian Rea<g ref="char:EOLhyphen"/>der.</p>
+            <byline>By Robert Tanner, ſtudent in Aſtronomy &amp; Coſ<g ref="char:EOLhyphen"/>mography.</byline>
+         </div>
+         <div type="dialogue">
+            <pb facs="tcp:18725:6"/>
+            <head>The verdit of the Booke, <hi>made in fourme of a Dia<g ref="char:EOLhyphen"/>lougue,</hi> beetweene the Booke and the Bookes friende.</head>
+            <sp>
+               <speaker>F</speaker>
+               <l>VVhat, doſt thou think al ſorts of men to pleaſe?</l>
+            </sp>
+            <sp>
+               <speaker>B</speaker>
+               <l>Nay, hard it is for one to pleaſe ech whight.</l>
+            </sp>
+            <sp>
+               <speaker>F</speaker>
+               <l>VVhat men are thoſe, whom thou ſoneſt diſeaſe?</l>
+            </sp>
+            <sp>
+               <speaker>B</speaker>
+               <l>Al fauting fooles, that ſeeke to work their ſpight</l>
+               <l>Through taunting tongues &amp; ſcofs, &amp; do delight</l>
+               <l>VVith wreſting wits to turn things fro<g ref="char:cmbAbbrStroke">̄</g> the right.</l>
+            </sp>
+            <sp>
+               <speaker>F</speaker>
+               <l>VVhy was thou made? what is thy chief intent?</l>
+            </sp>
+            <sp>
+               <speaker>B</speaker>
+               <l>To pleaſe the beſt of purpoſe I am ſent.</l>
+            </sp>
+            <sp>
+               <speaker>F</speaker>
+               <l>Go forth therfore, the beſt will thee imbrace.</l>
+            </sp>
+            <sp>
+               <speaker>B</speaker>
+               <l>Then feare I not abrod to ſhew my face,</l>
+               <l>Nor for il tongues that would me faine degrace.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:18725:6"/>
+            <head>¶ Probable Coniectures, from the courſe of tymes.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE holye Scripture euerye where maketh ſome collation between the firſt <hi>Adam</hi> the ſin<g ref="char:EOLhyphen"/>ner, and the Sonne of God, Chriſt our ſauiour the ſecond <hi>Adam:</hi> alſo betweene the floud, and vtter ouerthrow of the world, euen as Chriſt doth ſignifie in theſe wordes. <hi>Et erit ſicut in diebus Noe, &amp;c.</hi> And it ſhal be as in y<hi rend="sup">e</hi> daies of <hi>Noe,</hi> &amp;c. Wherefore I fell firſte into this conſide<g ref="char:EOLhyphen"/>ration, and afterward from one to an other into theſe which enſue, whether the tymes paſte in equalitie of the ſame number aun<g ref="char:EOLhyphen"/>ſwered alike: for the Lord God hath ordei<g ref="char:EOLhyphen"/>ned all thinges by a ſingular and euerla<g ref="char:EOLhyphen"/>ſting wiſdome: And experience doth teach by a certaine concurring of the Stars, that in ſuch thinges a great likeneſſe of tymes is woont often to happen. As in the byrth of <hi>Iſaack,</hi> and of his offering, which is a figure
+<pb facs="tcp:18725:7"/> of Chriſt, theré is a great conſent of times. For from the byrth of <hi>Iſaac</hi> vntill Chriſte, were two thouſande yeares fully expyred. from the creation of the world was a thou<g ref="char:EOLhyphen"/>ſand, ſixe hundred fiftie ſixe yeares: From this number the yeares of Chriſtes byrth vnto this preſent yeare 1583. doe differ 73 yeares, if truely that number wer fulſilled.</p>
+            <p>But I doe not thinke the worlde ſhall continue ſo long, that the latter time ſhould in number exceede the former, for manye coniectures which followe, but what maye come to paſſe, the Lord knoweth.</p>
+            <p>Likewiſe <hi>Moſes</hi> is a figure of Chriſte, That meruailous delyuering of Iſrael by <hi>Moſes</hi> out of the handes of <hi>Pharao,</hi> is a fi<g ref="char:EOLhyphen"/>gure of victory of chriſt, which on our behalf hee hath by his death on the Croſſe and re<g ref="char:EOLhyphen"/>ſurrection from the dead, obtained agaynſt the Deuill and death: And the whole go<g ref="char:EOLhyphen"/>uernment of <hi>Moſes,</hi> is a ſhadow of Chriſts kingdome: the ouerthrow of the Iewes and deſtruction of Vieruſalem, is no doubte a token of the worldes ouerthrowe. And here we ſhal ſee a wonderful conſent &amp; agreeing of times, that ſo by things paſte, we may looke for the euent of thinges to come vn<g ref="char:EOLhyphen"/>doubtedly
+<pb facs="tcp:18725:7"/> by the ſingular prouidence, coun<g ref="char:EOLhyphen"/>ſel &amp; ordinance of God: for no other reaſon can I re<g ref="char:cmbAbbrStroke">̄</g>der, ſith I ca<g ref="char:cmbAbbrStroke">̄</g>not perſwade my ſelf, that theſe thinges can by chaunce ſo won<g ref="char:EOLhyphen"/>derfully agree together. Firſt by the true account of yeares, it is playne that from the comming out of <hi>Aegipt,</hi> and publiſhing of the Law vntyl the Natiuitie of Chriſt, are numbered, a thouſande, ſiue hun<g ref="char:EOLhyphen"/>dred, and nine yeares. Nowe, if the yeares from the natiuitie of Chriſt, vntil the time, in which Chriſt began again to be borne to the world, &amp; to be brought into the light, as it were through the preaching of the goſpel, by <hi>Luther</hi> &amp; other famous men, were num<g ref="char:EOLhyphen"/>bered, they are in ſum a thouſand, fiue hun<g ref="char:EOLhyphen"/>dred, and ſeuenteene. Againe, from the departure out of <hi>Aegypt,</hi> vntill the death of Chriſt, the yeares are accounted to be a thouſande, fiue hundred, fourtie and two. And this number alſo doth meruailouſlye agree with that generall perſecution in <hi>Germanie,</hi> made by <hi>Charles</hi> the fifth, &amp; the Pope, which happened in the yeare, a thouſand, fiue hundreth, fourtie and ſe<g ref="char:EOLhyphen"/>uen: So that theſe numbers being com<g ref="char:EOLhyphen"/>pared together, will bee founde not much
+<pb facs="tcp:18725:8"/> to differ in quantitie of number. But from theſe poore mentions, I will go higher to thoſe thinges, which eſpecially do agree to our purpoſe. It is manifeſt that Moſes go<g ref="char:EOLhyphen"/>uernment vntil the deſtruction of Hieruſa<g ref="char:EOLhyphen"/>lem by <hi>Titus,</hi> did ſtand in all, one thouſand, fiue hundred, eightie and three yeares. Nei<g ref="char:EOLhyphen"/>ther is it to be doubted of any, but that the deſtruction and waſting (of Hieruſalem) is a manifeſt figure of the laſt ruine of the worlde: and therefore doth our Lord ſpeake of theſe things together, and ſaith, <hi>Thoſe dayes were like the dayes of Noe,</hi> in re<g ref="char:EOLhyphen"/>ſpect of maners, and the ſecuritie of mans life. Now at length, what ſhal we gather of theſe thinges, That the tearme of the worldes deſtruction ſhoulde agree with former number of yeares of <hi>Moſes</hi> gouern<g ref="char:EOLunhyphen"/>ment: which, not the ſonne of an Empe<g ref="char:EOLhyphen"/>rour, or chiefeſt Monarch, as was Hieruſa<g ref="char:EOLhyphen"/>lem: But the ſonne of God, much mightier then al Emperours, an euerlaſting king, can bring to naught: which thing, <hi>Melanc<g ref="char:EOLhyphen"/>thon</hi> ſeemed plainly to poynt at in the lyfe of <hi>Velpaſian,</hi> in his Chronicles. And the like reaſon is here, which is in the former compariſon of numbers, if thinges to come
+<pb facs="tcp:18725:8"/> may be gathered by thinges paſt alreadye. The figure doeth altogether in this place agree, and the chiefeſt ſigne of Chriſtes co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ming: to wit, the preaching of the Goſpell hath gone afore, and we doe ſticke in the middeſt of all the other foretolde calamy<g ref="char:EOLhyphen"/>ties, and euery yeare expect more miſerie. Fynally, alſo the Aſtronomers write (if e<g ref="char:EOLhyphen"/>uery ſkilful man in his owne facultie is to be credited) that the ſtarres in the begin<g ref="char:EOLhyphen"/>ning of the thouſand, fiue hundred, eightie and foure yeares (which almoſt together doth agree with the number aboue mentio<g ref="char:EOLhyphen"/>ned) doth threaten very fearefull and hor<g ref="char:EOLhyphen"/>rible thinges of diuers alterations and o<g ref="char:EOLhyphen"/>ther wonderfull matters, orels an vtter deſtruction of this worlde. The wordes of <hi>Cyprian Leouitius a Bohemian,</hi> a moſt excellent Mathematition, in a certain book of prognoſtications, for a twentie yeeres, fro<g ref="char:cmbAbbrStroke">̄</g> the yeare ſixtie foure, to the eighty four be theſe, <hi>Anno Domi. 1582. menſe Febru<g ref="char:EOLhyphen"/>arii,</hi> there ſhall happen fifteene coniunctio<g ref="char:cmbAbbrStroke">̄</g>s of the Planets in the beginning of <hi>Piſces.</hi> After which, ſtraight wayes in the yeare eightie foure ſhall enſue a wonderfull mix<g ref="char:EOLhyphen"/>ture of al the Planets almoſt in <hi>Taurus,</hi>
+               <pb facs="tcp:18725:9"/> about the end of March and beeginning of Aprill. And which is more, a litle after that ſhall be ſeene an Eclipſe of the Sunn, in the 18. degree 42. min. of <hi>Taurus,</hi> about the head of Algol, a moſt cruell fixed ſtarre, go<g ref="char:EOLhyphen"/>uerned by <hi>Venus,</hi> which ſhall be lynked to fiue Planets in <hi>Aries,</hi> tending towards the twelfe. Here (ſaith he) muſt we watch: &amp; I thinke it meete that earthly cogitations be caſt off, leaſt we be deſtroied being vnready, for this great Coniunction is of all, the laſt which ſhall happen in the end of watry Trigon. And watry Trigon ſhall haue an end, and to be turned into fiery Trigon. Neither any more in the ſpace of eight hun<g ref="char:EOLhyphen"/>dred years, the end of watry Trigon ſhalbe nighe. But becauſe about the end of watry Trygon this monarchy ſhal beginne, it is likely, y<hi rend="sup">t</hi> the ſame alſo in the end of the ſame Trigon ſhal haue an end, ſith the ſon of god himſelf Ieſus Chriſt our lord, euen in y<hi rend="sup">t</hi> end of watry Trigo<g ref="char:cmbAbbrStroke">̄</g> took vpo<g ref="char:cmbAbbrStroke">̄</g> him the nature of man. For 6. yeares before his moſt glorious natiutie, y<hi rend="sup">t</hi> ſame very coniunction in y<hi rend="sup">e</hi> extre<g ref="char:EOLunhyphen"/>mity of <hi>Piſces,</hi> &amp; in the beginning of <hi>Aries,</hi> happened: neither came y<hi rend="sup">e</hi> like ſince y<hi rend="sup">t</hi> time, but whe<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>Charls</hi> y<hi rend="sup">e</hi> great held his empyre, w<hi rend="sup">c</hi> was in the
+<pb facs="tcp:18725:9"/> yeare of our Lorde, ſeuen hundred, eightie, and nine. And now the ſecond time, ſuch a great and ſtraunge Coniunction ſhal come, which vndoubtedly doth foreſhew the other comming of the Sonne of God and man, in maieſtie of his glory, at which time wee muſt render account of our life and conuer<g ref="char:EOLhyphen"/>ſation. And a litle after he ſaith: But vnder <hi>Charles</hi> the great, the ende of the worlde could not be, becauſe at y<hi rend="sup">t</hi> time fiue thouſand yeares were not expyred. But now the ope<g ref="char:EOLhyphen"/>ration of this great coniunction co<g ref="char:cmbAbbrStroke">̄</g>tinuing, the number ſhal tend to ſix hundred yeares, which agreeth with the holy Prophet, affir<g ref="char:EOLhyphen"/>ming that this world ſhould ſtand ſix thou<g ref="char:EOLhyphen"/>ſand yeares: from which ſum of yeares the ſonne of God ſhall take ſomewhat, ſaying: the laſt time, for the elected of God ſhall be ſhortned. But if ther remayned yet an other Coniunction of the former Planets lyke to the firſt, then ſhoulde there be required almoſte eight hundred yeares moe, which added to the tymes of theſe great Con<g ref="char:EOLhyphen"/>iunctions, doe make the number of ſixe thouſande, and almoſte foure hundred yeares, which is playne againſt the pro<g ref="char:EOLhyphen"/>pheſie. Theſe Coniectures, howſoeuer they
+<pb facs="tcp:18725:10"/> they are, I thought good to recite, whiche doe agree with the learned Prophecies of moſt auncient Aſtrologers. Hitherto <hi>Cy<g ref="char:EOLhyphen"/>prian,</hi> which alſo by certaine verſes turned into rythme, by <hi>Iohn Stoffler,</hi> of the olde Prophecie of the deſtruction of the world<g ref="char:punc">▪</g>
+            </p>
+            <lg>
+               <l>When from the byrth of <g ref="char:V">Ʋ</g>irgins ſonne,</l>
+               <l>a thouſand yeeres are paſt:</l>
+               <l>And take fiue hundreth ſwiftly roune</l>
+               <l>by iuſt accounting haſt.</l>
+               <l>Then ſhall a ſeaſon ſtrang appeare,</l>
+               <l>which men ſhal mone too late:</l>
+               <l>I meane the eight and foure ſcore yeare</l>
+               <l>beſtead with dolefell fate.</l>
+               <l>If this yeare endeth not the frame,</l>
+               <l>that God with cunning wrought,</l>
+               <l>If now the ſea and maſſy earth</l>
+               <l>to nothing ſhalhe brought:</l>
+               <l>Yet euery kingdome with his pride,</l>
+               <l>ſhal be defaced quight:</l>
+               <l>Their glory aye from them ſhal ſlide,</l>
+               <l>and mourne ſhal euery wight.</l>
+            </lg>
+            <p>Now by this it appeareth how the num<g ref="char:EOLhyphen"/>ber of yeares of <hi>Moſes</hi> gouernment, which endured a thouſand, fiue hundred, eightie &amp; three yeeres: and of this yeere, a thouſande, fiue hundred eighty and foure (in whoſe be<g ref="char:EOLhyphen"/>ginning
+<pb facs="tcp:18725:10"/> that prodigius Coniunction of the planettes in the ende of the watry Trigon doth happen) agree together: ſo that the quantitie and number of the times foretold, the ſignes &amp; ſtars ſeeme to agree together, and without al doubt to portende the ſame thing. In like manner may we bring forth other compariſons of time, which by rea<g ref="char:EOLhyphen"/>ſon of like euents agree together wonder<g ref="char:EOLhyphen"/>fullye. Of which this one is not of leaſte weight, to wit, the ſame tune from the nati<g ref="char:EOLhyphen"/>uitie of Chriſt vnto the ouerthrowe of Hie<g ref="char:EOLhyphen"/>ruſalem, is almoſt equall with that, when <hi>Luther</hi> firſte of all ſet him ſelfe againſt the Popes indulgences, and beganne to preach the Goſpell, to this yeere eightie &amp; eight, in which, or about the ſame, by this meruei<g ref="char:EOLhyphen"/>lous ioyning together of Planets, which ſhall be foure yeares beefore, by the ſingu<g ref="char:EOLhyphen"/>lar prouidence of God, ſo dreadful deſti<g ref="char:EOLhyphen"/>nies of the worlde ſhall meete together. For from the byrth of Chriſte, vntill the deſtruction of Hieruſalem, are numbred ſeuentye and three yeares, and from the tyme that <hi>Luther</hi> and others firſt began to preach Chriſte and his Goſpell vntyll the eightie &amp; eight yeere, are accounted ſeue<g ref="char:cmbAbbrStroke">̄</g>ty
+<pb facs="tcp:18725:11"/> and one yeare, the number is iuſt with that before, and ſpeaking allegorically, the<g ref="char:cmbAbbrStroke">̄</g> may Chriſte be ſayde to be borne againe, when as the doctrine, ſo long by papiſticall dreames darkened, and fonde illuſions ſo deepely buryed, is as it were borne a newe, and doth cleerely ſhine among vs. But if thoſe yeares from the byrth of Chriſte, vn<g ref="char:EOLhyphen"/>till his preaching and ſuffering of death, with that general perſecution don by <hi>Cha<g ref="char:EOLhyphen"/>rles</hi> the fifth, and the Pope: And againe, thoſe yeares from the death of Chriſt, vn<g ref="char:EOLhyphen"/>till the deſtruction of Hieruſalem, with theſe yeares which came ſince that gene<g ref="char:EOLhyphen"/>rall perſecution, vntill the eightie eight yeare, were compared, wee ſhall ſee alſo, that in number of yeares they doe not much differ. For betweene Chriſtes byrth and his preaching, there was 30. yeares, and ſo to his death 33. yeares, and ſomewhat more. But from that 17. yeare, when the Goſpel began to ſhine againe, vntil the 46. yeare in all, when <hi>Charles</hi> the Emperour began to arme himſelf againſt the ſtates of the Empyre, ſo to aboliſhe the doctrine of Chriſt, are numbred 29. yeares. Againe, from the death of Chriſt, to the ouerthrowe
+<pb facs="tcp:18725:11"/> of Hierulalem, there were 40. yeares. And from the generall perſecution, which hap<g ref="char:EOLhyphen"/>pened in the 46. yeare, vntill eightie and ſix yeare, are accounted fortye yeares, which is the middle yeare betweene the eightye foure, when that exceeding ſtrange vniting together of the Planets ſhall appeare. And the eightie eight, about which time that Coniunctions ſhall take their full force.</p>
+            <p>Moreouer, I finde that theſe times, in which thoſe 2. wo<g ref="char:cmbAbbrStroke">̄</g>derful Coniunctions did appeare ſix yeares before the death of chriſt, and in the day of <hi>Charles</hi> the great, and the thirde and laſte, which ſhall happen before the full expyring of ſixe thouſande yeares, the thouſande, fiue hundred, eightye, and foure being at hand, doe fill the ſame num<g ref="char:EOLhyphen"/>ber. For <hi>Cyprian Leouitius</hi> doth write, that that other vniting of Planettes in the time of <hi>Charles</hi> the great, chaunced in the yeare, ſeauen hundred, eightie and nine, af<g ref="char:EOLhyphen"/>ther the natiuitie of chriſt. If to this number ſo many moe were added, the yeares would be one thouſand, fiue hundred, ſeuentie and eight. Now if to theſe were added thoſe ſixe<g ref="char:punc">▪</g> yeares beefore Chriſte was borne, when the firſt of theſe three Coniunctions
+<pb facs="tcp:18725:12"/> happened, there ſhall ariſe (counting from the natiuitie of Chriſt, as it were from an effecte of the former Coniunction) the ſame number of yeeres in full quantitye, agreeing with that dreadfull yeere, eighty foure, aboue a thouſand fiue hundred, onely that firſt, from this laſt, which is to come, differing thoſe ſixe yeeres before Chriſtes birth. I confeſſe my ſelfe not to be the ſkyl<g ref="char:EOLhyphen"/>fulleſt in Aſtronomy, that is, although I doe graatly eſteeme that arte (if it be ſober<g ref="char:EOLhyphen"/>lye vſed, and not vainely abuſed:) Which ſome, becauſe they are not acquainted ther<g ref="char:EOLhyphen"/>with (as co<g ref="char:cmbAbbrStroke">̄</g>monly it happeneth) do not only deſpiſe, but alſo with euill wordes, becauſe it is abuſed of ſome, deface. But if the wri<g ref="char:EOLhyphen"/>ting of <hi>Leouitius,</hi> and which was a great while before his time, <hi>Iohn Stoffler,</hi> and other Aſtronomers iudgement of thoſe rare Coniunctions of al the Planets in the end of waterye Trigon bee true: (as certes I beleeue, and verely perſwade my ſelfe) I ſaye playnely, it is a thing greatly to bee meruayled at, that thoſe Collations of times (in which the Lorde God either hath beſtowed ſingular benefits vpo<g ref="char:cmbAbbrStroke">̄</g> his church, and alſo wil beſtow, or altered kingdoms,
+<pb facs="tcp:18725:12"/> and wil alter) by ſuch a certain wonderful equalitie, and quantitie of numbers, ſhould aunſwere beetweene them ſelues, euen as thoſe reaſons of Aſtronomers in euerye reſpecte haue doone: Of which it is eui<g ref="char:EOLhyphen"/>dently gathered, that the Lorde GOD by a ſingular prouidence and eternal councel, doth guide and gouerne all thinges. And alſo it is playnely to be ſeene, that hee hath made the ſtarres, and the courſe of them to be as it were clocks of his eternall counſel, and gouernmentes of ſuch thinges in his Church, &amp; co<g ref="char:cmbAbbrStroke">̄</g>mon weales, euen as the Lord God alſo doth witneſſe himſelfe, that thoſe lightes in the firmament of heauen, ſhoulde be fore ſigns of times, and dayes, &amp; yeeres. And therefore from theſe thinges doe cun<g ref="char:EOLhyphen"/>ning Aſtronomers fetch their coniectures, becauſe through a certaine order which the ſtarres doe keepe, they haue by long vſe ob<g ref="char:EOLhyphen"/>ſerued very many things: y<hi rend="sup">t</hi> ſo from a true obſeruation of principles, they maye bring forth general coniectures, whoſe euents do meruailouſly agree together. And y<hi rend="sup">t</hi> ther is a certain order, or a true courſe of y<hi rend="sup">e</hi> ſtars, y<hi rend="sup">t</hi> wo<g ref="char:cmbAbbrStroke">̄</g>derful agreeing together of yeres, co<g ref="char:cmbAbbrStroke">̄</g>ti<g ref="char:EOLhyphen"/>nually in alteration of kingdo<g ref="char:cmbAbbrStroke">̄</g>s, &amp; religion, w<hi rend="sup">c</hi> hath bin
+<pb facs="tcp:18725:13"/> marked is a great proofe, as by that which is alredy ſpoken, may &amp; hereafter ſhal more plainely appeare. Truly, as often as I con<g ref="char:EOLhyphen"/>ſider theſe thinges, I am not onely excee<g ref="char:EOLhyphen"/>dingly troubled in minde, but as it were co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>pelled to beleeue, that that eſpecial tyme of the end of this world is nigh at ha<g ref="char:cmbAbbrStroke">̄</g>d, becauſe the Lord among other things alſo hath gi<g ref="char:EOLhyphen"/>uen vs certaine tokens, to wit: that afore his comming there ſhalbe a darkening of the ſunne and moone, that the qualities of y<hi rend="sup">e</hi> heaue<g ref="char:cmbAbbrStroke">̄</g>s ſhalbe troubled. By which words no doubt he woulde ſignifie, that the whole ſirmament of Starres ſhould be altered, and as it were threaten a deſtruction. We haue a notable example hereof in <hi>Noes</hi> prea<g ref="char:EOLhyphen"/>ching, by whome the Lorde GOD did firſt accuſe the world of diſobedience, before hee drowned the ſame for lacke of repentance: wherefore let vs caſte from vs, both our careleſſe ſecuritie and miſtruſte of the pro<g ref="char:EOLhyphen"/>myſes of GOD: let vs renounce the di<g ref="char:EOLhyphen"/>uell and the workes of the fleſhe, which are not ſufferable by the word of god, and let vs liſten to the frendly admonition of our Sa<g ref="char:EOLhyphen"/>uiour Chriſt, warning vs in theſe wordes: Take heed, leaſt at any time your minds be <note place="margin">
+                  <hi>Luk.</hi> 21.</note>
+               <pb facs="tcp:18725:13"/> ouer laden with ſurfeting and drunkennes, and cares of this life, and ſo the ſodaine day of the Lorde take you vnwares, for euen as a ſnare it ſhall come vpon all which ſit vpon the face of the earth: be yee watchfull ther<g ref="char:EOLhyphen"/>fore at all times. (And as <hi>Matthew</hi> addeth) Becauſe ye know not the houre in whiche <note place="margin">
+                  <hi>Mat.</hi> 25.</note> your Lorde will come: praying, that yee may eſcape all theſe thinges which are to come, &amp; may ſtand before the ſonne of man.</p>
+            <p>O God and moſt mercifull father, illu<g ref="char:EOLhyphen"/>minate our mindes with thy holy ſpirite, by which wee may bee prepared to all good workes, in the holineſſe and newneſſe of life, that ſo with Paule, wee may deſire to leaue this worlde, and to be with Chriſt, and ſo in the comming of the Lorde being found readie with oyle in our lampes, and adorned with our wedding garmentes, wee may finde entrance to the Lordes ma<g ref="char:EOLhyphen"/>riage: which, thou for thy ſonne, and his be<g ref="char:EOLhyphen"/>loued ſpouſe the Church, haſt prepared and appointed from the beginning of y<hi rend="sup">e</hi> worlde. To thee therfore, O heauenly father, to the only begotten ſonne, and to the holy ghoſte our comforter, be all prayſe, honour, &amp; glo<g ref="char:EOLhyphen"/>ry, for euer and euer. Amen.</p>
+            <pb facs="tcp:18725:14"/>
+            <p> Whereas before I haue declared of ma<g ref="char:EOLhyphen"/>nie reaſons and probable coniectures, from the courſe of times: nowe I will proceede by the Art of Aſtronomie, to ſhewe and ſet foorth in what maner and forme the faces of the heauens are at the time of theſe greate coniunctions of the Planets, which ſhall happen in the ende of waterie Trigone, in <hi>Anno Domini.</hi> 1582. in the moneth of Februarie, the 12. day, about the houre of 7. of the clocke in the morning, the, Moone then readie to change, in the ſecond degree and 40. minutes in <hi>Piſces,</hi> in coniunction with all the Planets, as by a figure heere<g ref="char:EOLhyphen"/>after calculated to the learned and ſkilfull in this Art may appeare. The like con<g ref="char:EOLhyphen"/>iunctions, haue neuer bin ſeene in theſe our dayes, nor yet in many yeeres before: for this great coniunction is of all, the laſte which ſhall happen in the ende of waterie Trigon, and waterie Trigon ſhall haue an ende. And about the eight day of April, in <hi>Anno,</hi> 1584. a little before that the Sun entreth into <hi>Taurus,</hi> then turned into firie Trigon, neither any more in the ſpace of eight hundred yeeres the ende of waterie Trigon ſhalbe nigh.</p>
+            <pb facs="tcp:18725:14"/>
+            <div type="part">
+               <head>Heere followeth the figure expreſſing the ſame lights of the coniuncti<g ref="char:EOLhyphen"/>ons of the Planets in ♓.</head>
+               <figure>
+                  <figDesc>astrological chart</figDesc>
+                  <head>
+                     <hi>Anno. Dom.</hi> 1583. The 12. day of Februarie, <hi>hora</hi> 7. in the morning, a new Moone at the Sunne riſing in con<g ref="char:EOLhyphen"/>iunction. with 5. Planetes in the Aſcendent, in 2. de<g ref="char:EOLhyphen"/>grees and foure minutes in ♓.</head>
+               </figure>
+               <p>AT the time of this entrance, y<hi rend="sup">e</hi> cuſpis of the Eaſt is in 7. degrees of <hi>Piſces.</hi>
+                  <pb facs="tcp:18725:15"/> The 2, houſe, 9. degrees, and 4. minutes of <hi>Taurus.</hi> The 3. houſe, 6. degrees &amp; 23. min. of <hi>Gemi.</hi> The 4. houſe 20. degrees in <hi>Ge<g ref="char:EOLhyphen"/>min.</hi> The 5. houſe, 2. degrees, and 58. min. of <hi>Cancer.</hi> The 6. houſe 22. degrees, &amp; 50. minuts of <hi>Cancer.</hi> The 7. houſe 7. degrees in <hi>Virg.</hi> The 8. houſe 9. degrees and foure min. of <hi>Scorpius.</hi> The 9. houſe 6. degrees 23. minutes of <hi>Sagittarius.</hi> The 10. houſe 20. degrees of <hi>Sagittari.</hi> The 11. houſe 2. degrees and 58. minutes of <hi>Capricor.</hi> The 12. houſe 22. and 50. minutes of <hi>Capricor.</hi> The Moone is in 2. degrees and 4 minuts of <hi>Piſces, pars fortunae</hi> is in the 27. degrees, and 0. minutes of <hi>Piſces. Saturne</hi> is in the 12. degrees and 23. minutes of <hi>Piſces. Iupiter</hi> is in the 4. degree and 19. minutes of <hi>Piſces. Mars</hi> is in the 9. degrees and 5. minutes of <hi>Piſces:</hi> The Sunne is in the 2. degrees and 4. minutes of <hi>Piſces. Venus</hi> is in the 29. degrees and 18. minutes of <hi>Aquarius. Mercurie</hi> is in the firſt degree &amp; 0. minutes of <hi>Piſces. Caput Draconis</hi> is in the 27. degree and 30. minutes of <hi>Sagitta<g ref="char:EOLhyphen"/>rius. Cauda Draconis,</hi> is in y<hi rend="sup">e</hi> 27. degrees &amp; 30. minuts of <hi>Gemini.</hi>
+               </p>
+               <lg>
+                  <pb facs="tcp:18725:15"/>
+                  <l>In viewing of the ſtarrie ſkie</l>
+                  <l>it plainely doth appeare,</l>
+                  <l>Great waters, yea, of ſundrie ſortes</l>
+                  <l>ſhall raigne this preſent yeere:</l>
+                  <l>Like as therefore by certaine ſignes</l>
+                  <l>the ſame were ſhewed to me:</l>
+                  <l>So I the ſame, loe heere doe ſhew</l>
+                  <l>good Reader vnto thee.</l>
+               </lg>
+               <p>Sixteene Coniunctions ſhall bee made with the Moone &amp; other planets, betweene the 12. day of Februarie, and the 26. day of the ſame moneth in <hi>Piſces:</hi> the like number in the ſpace of 15. dayes, in one ſigne hath neuer beene ſeene in theſe our dayes, nor yet in many other yeeres before. The 12. <note place="margin">The number <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 6. ☌.</note> day of Februarie next, there ſhall bee theſe many coniunctions in one day.</p>
+               <p>The firſt is a coniunction of the Sunne and the Moone in <hi>Piſces.</hi> A coniunction of the Moone and <hi>Mercurie</hi> in ♓. A coniunc<g ref="char:EOLhyphen"/>tion of <hi>Venus</hi> and the Moone in <hi>piſces.</hi> A coniunction of <hi>Iupiter,</hi> and the Moone in <hi>Piſces.</hi> A coniunction of <hi>Saturne,</hi> and the Moone in <hi>Piſces.</hi> A coniunction of <hi>Venus,</hi> and the Moone in <hi>Piſces.</hi> The 13. day of
+<pb facs="tcp:18725:16"/> Februarie a coniu<g ref="char:cmbAbbrStroke">̄</g>ction of the Sun &amp; <hi>Iupi<g ref="char:EOLhyphen"/>ter</hi> in <hi>Piſces.</hi> The 13. day again, a coniunc<g ref="char:EOLhyphen"/>tion of the Sun &amp; <hi>Mercurie</hi> in <hi>Piſces.</hi> The 14. day of Februarie, a coniunction of <hi>Iupiter</hi> &amp; <hi>Mercurie</hi> in <hi>Piſces.</hi> The 16. day of Februarie a coniunction of <hi>Iupiter</hi> and <hi>Venus</hi> in <hi>Piſces.</hi> The 18. day of February a coniunction of <hi>Saturne</hi> and <hi>Mercurie</hi> in <hi>Piſces.</hi> The 21. day of February a coniunc<g ref="char:EOLhyphen"/>tion of <hi>Mars</hi> and the Moone in <hi>Canc.</hi> The 22. day of February a coniunction of <hi>Sa<g ref="char:EOLhyphen"/>turne</hi> and the Sunne in <hi>Piſces.</hi> The 23. day of Februarie a coniunction of <hi>Saturne</hi> and <hi>Venus</hi> in <hi>Piſces.</hi> The 25. day of Fe<g ref="char:EOLhyphen"/>bruarie a coniunction of the Sunne and <hi>Venus</hi> in <hi>Piſces.</hi>
+               </p>
+               <p>This great coniunction doth threaten ſtrange and wonderfull thinges to happen. For firſt after the mightie Coniunction of the two higheſt planets, <hi>Saturne</hi> &amp; <hi>Iupiter</hi> in <hi>Cancer,</hi> whiche is reckoned the fyrſte ſigne of the aforeſaide waterie triplicitie, which coniunction happened in the fourth houſe, in the moneth of Nouember, at whi<g ref="char:EOLhyphen"/>che time the worlde was ouerflowed with water, which to this day doth, and ſhall euer
+<pb facs="tcp:18725:16"/> beare the name of <hi>Noahs</hi> flood, ſuche a flood as the worlde ſhall neuer ſee agayne. The next coniunction of the Superiour Planets happened in <hi>Scorpio,</hi> the ſeconde ſigne of the ſame Triplicitie 47. yeeres be<g ref="char:EOLhyphen"/>fore y<hi rend="sup">e</hi> glorious Natiuitie of our Sauiour Ieſus Chriſt, &amp; fiue yeres before y<hi rend="sup">e</hi> deſtruc<g ref="char:EOLhyphen"/>tion of the moſt valerous and puiſſant cap<g ref="char:EOLhyphen"/>taine, <hi>Iulius Caeſar,</hi> and <hi>Pompey</hi> was very hoat y<hi rend="sup">t</hi> violent. The ende of y<hi rend="sup">t</hi> which Ciuil warres betweene the ſaide <hi>Iulius</hi> and <hi>Pom pey,</hi> was a little after the ſame coniunction. Whereupon <hi>Iulius Caeſar</hi> hauing oppreſ<g ref="char:EOLhyphen"/>ſed the contrarie force, and valiantly ſubdu<g ref="char:EOLhyphen"/>ed his enemies, which defended their aun<g ref="char:EOLhyphen"/>cient ſtate, and common libertie: did fyrſt eſtabliſhe this fourth moſt Noble Monar<g ref="char:EOLhyphen"/>chie. Thirdly, not long after this, namely, ſixe yeeres, before the happie byrth of our Redeemer, there happened a coniunction of theſe mightie ſuperiour Planets, <hi>Saturne</hi> and <hi>Iupiter,</hi> in the laſt face of <hi>Piſces,</hi> which is the laſt ſigne of waterie Trigon, and the beginning of <hi>Aries,</hi> which is the firſt ſigne of the firie Trigon, which coniunction hap<g ref="char:EOLhyphen"/>pened neuer ſince, but onely in the dayes of the woorthie Chriſtian Emperour,
+<pb facs="tcp:18725:17" rendition="simple:additions"/> 
+                  <hi>Carolus Magnus. Anno 789.</hi> which is al<g ref="char:EOLhyphen"/>moſt 800. yeeres agoe. But is now to hap<g ref="char:EOLhyphen"/>pen once againe in this yeere 1583. Tou<g ref="char:EOLhyphen"/>ching which co<g ref="char:cmbAbbrStroke">̄</g>iu<g ref="char:cmbAbbrStroke">̄</g>ctio<g ref="char:cmbAbbrStroke">̄</g> this yere now enſuing is the laſt coniunctio<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">t</hi> euer ſhall happen in the end of y<hi rend="sup">t</hi> waterie Trigon. And heereaf<g ref="char:EOLhyphen"/>ter enſueth the figure Aſtronomically of the ſaid great co<g ref="char:cmbAbbrStroke">̄</g>iunction of <hi>Saturne</hi> &amp; <hi>Iupi<g ref="char:EOLhyphen"/>ter</hi> in the 8. houſe in <hi>Piſces.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <figure>
+                     <figDesc>astrological chart</figDesc>
+                     <head>
+                        <hi>Anno Domini. 1583.</hi> The 28. day of Aprill, hora 12. of the clocke at noone, ☌. ♄. &amp; ♃. <hi>Polus Claudioceſtrenſis,</hi> De. M. 51. 32.</head>
+                  </figure>
+               </head>
+               <pb facs="tcp:18725:17"/>
+               <p> AT the time of this entrance, the <hi>Cuſpis</hi> of the Eaſt is the 27. degrees, and 24. minutes of <hi>Leo.</hi> The 2. houſe is the 17. degrees, and 49. minutes of <hi>Virgo.</hi> The 3. houſe is the 11. degrees &amp; 34. minutes of <hi>Libra.</hi> The 4. houſe is the 16. degrees &amp; 00. min. of <hi>Scorpio.</hi> The 5 houſe is the 29. degrees, and 27. min. of. <hi>Sagitra.</hi> The 6. houſe is the 30. degrees, &amp; 55. minutes of <hi>Aquar.</hi> The 7. houſe is the 27. degrees and 24. min. of <hi>Aquar.</hi> The 8. houſe is the 17. degrees &amp; 49. min. of <hi>Piſces.</hi> The 9. houſe is the 11. degrees and 34. minuts of <hi>Aries.</hi> The 10. houſe is the 16. degrees &amp; 00. mi. of <hi>Taurus.</hi> The 11. houſe is the 29. degrees and 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. minutes of Gem. The 12. houſe is the 3. degrees. and 45. minuts of <hi>Leo.</hi> The Mooue in 4. degrees and 54. min. of <hi>Sag. Pars fortunae</hi> 15. degrees and 34. min. of <hi>Piſces. Saturne</hi> is in 21. degrees &amp; 00. min. of <hi>Piſces. Iupiter</hi> is in 21. degrees and 00. minutes of <hi>Piſces. Mars</hi> is in 4. degrees &amp; 6. min. of <hi>Leo.</hi> The Sun is in 16. degrees and 48. minutes of <hi>Taurus. Venus</hi> is in 4. degrees and 6. min. of <hi>Gemin. Mercurie</hi> is in 21. degrees &amp; 20. minutes of <hi>Aries.</hi> Saturne is Orientall, ♃ is Orie<g ref="char:cmbAbbrStroke">̄</g>tall. <hi>Mars</hi>
+                  <pb facs="tcp:18725:18"/> is Occidentall, ☿ <hi>Mercurie</hi> Occidentall.</p>
+               <p>Conſidering that this fourth monarchie began firſt about the end of watery Trigo<g ref="char:cmbAbbrStroke">̄</g>, and was afterwards weakened &amp; decayed vnder the ſame, as appeareth by the premiſ<g ref="char:EOLhyphen"/>ſes, may it now ſeeme likely and probable enough that it ſhall alſo finally bee ended &amp; deſtroyed vnder the ſame Trigon. And for as much as our Lorde and Sauiour tooke our humane nature vpon him, beeing borne of the <g ref="char:V">Ʋ</g>irgin Marie in <hi>Bethlem,</hi> at the end of the waterie Trigon, and beginning of the firie Trigon: the ſame nowe hapning againe, may it not alſo ſignifie and portende ſome wonderfull and marueilous alteratio<g ref="char:cmbAbbrStroke">̄</g> ſhortly after to enſue: yea, why not euen y<hi rend="sup">t</hi> great &amp; dreadful time, wherin y<hi rend="sup">e</hi> ſame Jeſus Chriſt ſhall come again in vnſpeakable ma<g ref="char:EOLhyphen"/>ieſtie, to iudge both the quicke and the dead, conſuming the whole world by fire. For now ſhall the firie Trigon raigne, and all the coniunctions of the ſuperiour Planets, which hereafter ſhall happen, ſhall continu<g ref="char:EOLhyphen"/>ally be in firie ſignes till the accompliſhme<g ref="char:cmbAbbrStroke">̄</g>t almoſt of 200. yeeres. The ancient famous propheſie of <hi>Elias,</hi> concerning the worldes continua<g ref="char:cmbAbbrStroke">̄</g>ce, foretelling that the ſame ſhould
+<pb facs="tcp:18725:18"/> ſtand 6000. yeeres: 2000. vaine: 2000. the lawe: 2000. Chriſte: which together make in all, the final number of numbers <note place="margin">456. yeeres more to come do make vp the iuſt nu<g ref="char:cmbAbbrStroke">̄</g>ber of 6000. yeeres, the full time, whiche Elias ſpeaketh of. But I cannot thinke that the full computati<g ref="char:EOLhyphen"/>on of the num<g ref="char:EOLhyphen"/>ber ſhalbe filled.</note> 6000. yeeres, whereof it hath alreadie con<g ref="char:EOLhyphen"/>tained 5544. So that not ſo much as 500. yeeres do now remaine, of which alſo, ſome euen of thoſe that are yet behinde ſhall bee ſhortened in reſpect of our infinite ſinnes, &amp; exceeding wickedneſſe, as it followeth in the ſame propheſie: yea our Sauiour Chriſt himſelfe hath promiſed in his Goſpell writ<g ref="char:EOLhyphen"/>ten by Saint Mathew y<hi rend="sup">t</hi> 24. chapter, that he will detract ſomewhat of the appointed time: ſaying, except thoſe daies be ſhortned, there ſhal no fleſh be ſaued, but for the elects ſake, they ſhalbe ſhortened. what doubt is there but that we may perſwade with our ſelues that the comming of Chriſt to iudge<g ref="char:EOLhyphen"/>ment will not be long.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:18725:19"/>
+               <head>
+                  <hi>Of the ſickneſſes and infir<g ref="char:EOLhyphen"/>mities</hi> this yeere of our Lord 1583. in generall throughout the yeere, which are like to happen.</head>
+               <p>
+                  <hi>ACcording</hi> to the doctrine of the aun<g ref="char:EOLhyphen"/>cient Princes, and diuers other fa<g ref="char:EOLhyphen"/>mous learned in the Sciences Ma<g ref="char:EOLhyphen"/>thematicall: It manifeſtly appea<g ref="char:EOLhyphen"/>reth, that this yeere ſhall raigne, many painefull &amp; dangerous Feuers, the blooddy Flyxe, blacke Iaundies, Opilation of the Liuer, obſtruction of the Splene, Apo<g ref="char:EOLhyphen"/>ſtumes commyng of Flegme, paynes in y<hi rend="sup">e</hi> eyes &amp; teeth, <hi>Epilepſia,</hi> Stitches, Collicke and ſtone, Laxes, payne in the bowels, Pluriſies, y<hi rend="sup">e</hi> Dropſie, Cathares, Rewmes, ſmall Pockes and Meaſles, paines of the belly: many maydens and women ſhall be vexed with diuers diſeaſes: &amp; in the So<g ref="char:cmbAbbrStroke">̄</g>mer quarter theſe diſeaſes ſhal moſt raign, blee<g ref="char:EOLhyphen"/>ding at the noſe, paines in the back &amp; belly, <hi>Diſſenteria</hi> &amp; Strangurion. In <hi>Autumne</hi> the Winter quarter, paynes in the throte,
+<pb facs="tcp:18725:19"/> 
+                  <hi>Agina, Apoplexia,</hi> paines of the breaſt, tremblyng of the hearte, the quartaine and quotidian Ague, the Palſey, Rewmes, Pluriſie, y<hi rend="sup">e</hi> Goute, and many women ſhall peryſhe in their trauell of childe, many people ſpeechleſſe in their ſickneſſes, and ſodaine death: From the which, and all other euils, the Lorde in his mercie deliuer vs. Amen.</p>
+               <lg>
+                  <l>Our ſinnes (alas) doe ſtill procure,</l>
+                  <l>theſe plagues and many more:</l>
+                  <l>Yet if wee will ropentance ſhewe,</l>
+                  <l>our Lorde hath grace in ſtore.</l>
+                  <l>Let vs doe as the Niniuites did,</l>
+                  <l>when Ionas did them warne;</l>
+                  <l>Then ſhall no plagues of Peſtilence,</l>
+                  <l>or ſickneſſe doe vs harme.</l>
+               </lg>
+               <p>Thus endeth the eightie three yeere, and nowe to proceede with eightie foure yeere.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:18725:20"/>
+               <head>
+                  <figure>
+                     <figDesc>astrological chart</figDesc>
+                     <head>
+                        <hi>Anno Dom.</hi> 1584 the 8. day of Aprill, one in houres, and 44. minutes at noone, at what time the figure of the heauens is ſuch, at what time the Planets doe enter into fi<g ref="char:EOLhyphen"/>rie triplicities.</head>
+                  </figure>
+               </head>
+               <p>LEo aſcendent in the 15. degree and 12 min. The 2. houſe 4. degrees 54. min. of <hi>Virgo.</hi> The 3. houſe 26. degrees 34. mi. of <hi>Virgo.</hi> the 4. houſe 28. degrees &amp; no mi. of <hi>Libra.</hi> The 5. houſe 12. degrees and 30. min. of <hi>Sagittarius.</hi> The 6. houſe 20. de<g ref="char:EOLhyphen"/>grees and 26. min. of <hi>Capric.</hi> The 7. houſe
+<pb facs="tcp:18725:20"/> 15. degrees &amp; 12. mi. of <hi>Aquar.</hi> y<hi rend="sup">e</hi> 8. houſe 4. degrees and 54. min of <hi>Piſces.</hi> The 9. houſe 26. degrees and 34. min. of <hi>Piſces.</hi> The 10. houſe 28. degrees and no min. of <hi>Aries.</hi> The 11. houſe 12. degrees and 30. min. of <hi>Gem.</hi> The 12. houſe 20. degrees &amp; 26. min of <hi>Cancer.</hi> The Moone is in 11. degrees and 4 min. of <hi>Leo. Pars fortunae</hi> in 28. degrees and 8. min. of <hi>Sagit. Saturne</hi> is in no degree and 14. min. of <hi>Aries. Mercu<g ref="char:EOLhyphen"/>rie</hi> is in one degree and 22. min. of <hi>Aries.</hi> ♂ <hi>Mars</hi> is in 3. degrees and 26. minutes of <hi>Aries. Iupiter</hi> is in 15. degrees &amp; 20. min. of <hi>Aries.</hi> The Sunne is in 28. degrees and 8. min. of <hi>Aries. Venus</hi> is in the 16. degree and 52. min. of <hi>Piſces. Saturne</hi> is Ori<g ref="char:EOLhyphen"/>entall. <hi>Iupiter</hi> is Orientall. <hi>Mars</hi> is ori<g ref="char:EOLhyphen"/>entall. <hi>Venus</hi> is Occidentall. <hi>Mercurie</hi> is Orientall *. Theſe Planets conioyned to<g ref="char:EOLhyphen"/>gether in firie triplicities, is a great token to bee marked of the worldes deſtruction &amp; that the latter daye is at hande. Therefore let vs watche and bee mindful of the Lords comming.</p>
+               <p>The ſeruant which diligently wat<g ref="char:EOLhyphen"/>cheth at all houres for his maſters com<g ref="char:EOLhyphen"/>myng, <note place="margin">
+                     <hi>Mat.</hi> 24.</note> &amp; doth in y<hi rend="sup">t</hi> meane ſeaſon ſuch things
+<pb facs="tcp:18725:21"/> as his maſter hath appointed him, is bleſſed: For hee ſhall enter into his maſters ioye. But the ſeruant, that liueth without care, is idle, watcheth not, looketh not diligently vpon his office, thinketh not of his maſters comming, ſmiteth his fellowes, cateth and drinketh with the drunken, that ſeruaunt I ſay, ſhal haue his part with hypocrites, and ſhall be caſt into vtter darknes, where wee<g ref="char:EOLhyphen"/>ping &amp; gnaſhing of teeth ſhall be, &amp;c.</p>
+               <p>Wake, becauſe ye know not what houre <note place="margin">
+                     <hi>Mat.</hi> 24.</note> your maſter will come, of this bee yee ſure, that if the houſholder knew what houre the theefe would come, he would ſurely watch, and not ſuffer his houſe to bee broken vp. Therfore be ye alſo redie, for in an houre as ye thinke not, the ſonne of man commeth.</p>
+               <p>Watch and pray, that yee fall not into <note place="margin">
+                     <hi>Mat.</hi> 26.</note> temptation.</p>
+               <p>Let your loynes bee gyrte about, and <note place="margin">
+                     <hi>Luke.</hi> 21.</note> your lightes burning, &amp; your ſelues like men that wayte for theyr maſter, when hee will returne from the wedding, that as ſoone as hee commeth and knocketh, they may open vnto him: Bleſſed are thoſe ſer<g ref="char:EOLhyphen"/>uants, which the Lorde when hee commeth ſhall finde waking, &amp;c.</p>
+               <pb facs="tcp:18725:21"/>
+               <p> Take heede, watche and praye, for yee <note place="margin">
+                     <hi>Mark.</hi> 13.</note> know not whan the time is, And I ſay to al watch.</p>
+               <p>Take heede to your ſelues, leaſte your hearts be grieued with ſurfeiting and drun<g ref="char:EOLhyphen"/>kenneſſe, <note place="margin">
+                     <hi>Luk.</hi> 21</note> &amp; cares of the world, whe<g ref="char:cmbAbbrStroke">̄</g> the day ſhal come ſodenly on you. For as a ſnare ſhal it come on all them that ſit on the face of the earth. &amp;c.</p>
+               <p>
+                  <hi>Philip.</hi> 4. The Lord is at hande.</p>
+               <p>The daye of the Lorde ſhall come euen as a theefe in the night: when they ſhall ſay <note place="margin">1 <hi>Theſ.</hi> 5.</note> peace and no danger, than commeth there on them ſodaine diſtruction, as the trayuai<g ref="char:EOLhyphen"/>ling woman with childe, and they ſhall not eſcape. &amp;c.</p>
+               <p>Let vs not ſleepe as other doe: but let vs watch and be ſober.</p>
+               <p>Bee pacient, and ſettle your hearts, for <note place="margin">
+                     <hi>Iacob.</hi> 5.</note> the comming of the Lorde draweth nygh: Beeholde, the Iudge ſtandeth before the dore.</p>
+               <p>Be ſober and watch, for your aduerſary the deuil, as a roring Lyon walketh about, <note place="margin">1. <hi>Pet.</hi> 5.</note> ſeeking whom hee may deuoure: whom re<g ref="char:EOLhyphen"/>ſiſt ſtedfaſt in the fayth.</p>
+               <pb facs="tcp:18725:22"/>
+               <p> The daye of the Lorde ſhall come as a theefe in the night. <note place="margin">2. <hi>Pet.</hi> 3.</note>
+               </p>
+               <p>Little children, euen nowe is the laſte <note place="margin">1. <hi>Iohn.</hi> 2</note> time.</p>
+               <p>Yet a very little while, and he that ſhall come, will come, and will not tary. <note place="margin">
+                     <hi>Heb.</hi> 10.</note>
+               </p>
+               <p>The fiue wiſe <g ref="char:V">Ʋ</g>irgins prepared both lampes and oyle, tarying and watching for the comming of the bridgroome: Therfore when he came, they beeing in a readineſſe, went in with him into the wedding: But the fiue fooliſh <g ref="char:V">Ʋ</g>irgins ſlumbred and ſlept, ſo that when the Bridegoome came, they were vnprepared, and had no oyle in their lampes, and therefore were they ſhutte out of the doore. Watch, for we know neyther the daye nor the houre when the Sunne of man ſhall come, &amp;c.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:18725:22"/>
+               <head>Domus Diei, <hi>♃ hora 4. min 56.</hi> ante Merid.
+<figure>
+                     <figDesc>astrological chart</figDesc>
+                     <head>This figure expreſsing the faces of the heauens, of the Eclipſes of the ſun in the eaſt angle, about the time of the change of the moone. <hi>Anno Dom.</hi> 1584. the laſt day of Aprill, a<g ref="char:EOLhyphen"/>bout the houre of 5. of the clock in the morning a litle after the ſun riſing</head>
+                  </figure>
+               </head>
+               <p>AT the time of this entrance, y<hi rend="sup">e</hi> 
+                  <hi>cuſpis</hi> of the Eaſt is the 29. degrees and 25. min of <hi>Taurus.</hi> The 2. houſe, 28. degres, &amp; 34. minutes of <hi>Geminie.</hi> The 3. houſe 14. degrees, and 12. minutes of <hi>Cancer.</hi>
+                  <pb facs="tcp:18725:23"/> The 4. houſe is 28 degrees, 0. minutes of <hi>Cancer.</hi> The 5. houſe is 17. deegrees, and 30. min. of <hi>Leo.</hi> The 6. houſe is 0. degree, and 30. min. of <hi>Libra.</hi> The 7. houſe is 29. degrees, and 54. min. of <hi>Scorpio.</hi> The 8. houſe is 20. degrees, and 34. minutes of <hi>Sugittarius.</hi> The 9. houſe is 14. degree, and 12. min. of <hi>Capricorne.</hi> The 10. houſe is 28. degrees, 0. min of <hi>Capricorne.</hi> The 11. houſe is 17. degrees, and 30. min. of <hi>Aqua<g ref="char:EOLhyphen"/>rius.</hi> The 12. houſe is 0. degree, and 13. min. of <hi>Aries.</hi> The Sun in the eaſt Angle, 18. degrees, 42. min. in <hi>Taurus.</hi>
+               </p>
+               <p>The Moone 17. and 49. min. applying to a Coniunction of the Sunne in the 18. degree, and 42. minutes of <hi>Taurus.</hi>
+               </p>
+               <p>
+                  <hi>Pars fortunae</hi> in the 26. degrees, and 10. m. of <hi>Gemini,</hi> in the ſeconde houſe.</p>
+               <p>
+                  <hi>Saturne</hi> is in 2. degrees 41. min. of <hi>Aries,</hi> in the 12. houſe.</p>
+               <p>
+                  <hi>Venus</hi> in the 12. houſe in 11 degrees, and 44. min of <hi>Aries.</hi>
+               </p>
+               <p>
+                  <hi>Mars</hi> in the 12. houſe, and 20. degrees, and 24. min. of <hi>Aries.</hi>
+               </p>
+               <p>
+                  <hi>Jupiter</hi> in the 12 houſe, 20. degrees, and 25 min. of <hi>Aries.</hi>
+               </p>
+               <pb facs="tcp:18725:23"/>
+               <p> 
+                  <hi>Mercury</hi> in the 12. houſe, 1. degree, and 48. min. of <hi>Taurus.</hi>
+               </p>
+               <p>
+                  <hi>Caput Draconis</hi> is 4. degrees of <hi>Sagita<g ref="char:EOLhyphen"/>rius.</hi>
+               </p>
+               <p>
+                  <hi>Cauda Draconis</hi> is 4. degrees of <hi>Gemi<g ref="char:EOLhyphen"/>ni</hi> in the Aſcendent.</p>
+            </div>
+            <div type="part">
+               <head>Plenilunium Eclipticum. 1. <hi>Nouembris Die 7. hora.</hi> 12. 17.
+<figure>
+                     <figDesc>lunar eclipse</figDesc>
+                     <p>Luna orientis Solis orbem a Parte Septentri onali perſtrin<g ref="char:EOLhyphen"/>get, idque tenu<g ref="char:EOLhyphen"/>iſsimo Veſtigio die. 29. Apri<g ref="char:EOLhyphen"/>lis.</p>
+                     <p>Digiti Ecliptid. 17 14</p>
+                     <p>Te<g ref="char:cmbAbbrStroke">̄</g>pus inciden<g ref="char:EOLhyphen"/>tiae. 1 45</p>
+                     <p>Mora dimidia. 0. 45.</p>
+                  </figure>
+               </head>
+               <pb facs="tcp:18725:24"/>
+               <figure>
+                  <figDesc>astrological chart</figDesc>
+                  <head>This figure calculated ſheweth the faces of the heauens, of the Eclipſe of the <g ref="char:Moon">☽</g> 1584. the 7. day of Nouember, a litle after 12. of the clocke, at midnight.</head>
+               </figure>
+               <p>THe time of this entraunce the <hi>Cuſpis</hi> of the eſtate is the 5. degree, and 51. minutes of <hi>Libra.</hi> The 2. houſe, 26. degree, and 51. min. of <hi>Virgo.</hi> The 3. houſe, 21. de<g ref="char:EOLhyphen"/>gree, and 51. min. of <hi>Libra.</hi> The 4. houſe 28. degrees, and 00. minutes of <hi>Scorpio.</hi>
+                  <pb facs="tcp:18725:24"/> The 5. houſe 10. degrees, and 24. minuts of <hi>Capricorne.</hi> The 6. houſe, 12. degres, &amp; 48. min. of <hi>Aquarius.</hi> The 7. houſe, 5. degrees, and 55. min. of <hi>Piſces.</hi> The 8. houſe 26. de<g ref="char:EOLhyphen"/>grees, and 51. min. of <hi>Piſces.</hi> The 9. houſe 21. degrees, and 58. min of <hi>Aries.</hi> The 10. houſe, 28. degrees, and 00. min. of <hi>Taurus.</hi> The 11. houſe, 10. degrees, and 24. min. of <hi>Cancer.</hi> The 12. houſe, 12. degrees, and 42. min. of <hi>Leo.</hi> The Moone in 21. degrees, &amp; 16. minutes of <hi>Taurus. Pars Fortunae</hi> 5. de<g ref="char:EOLhyphen"/>grees, and 55. min. of <hi>Aquarius. Saturne</hi> in 29. degrees, and 27. min. of <hi>Piſces. Iupi<g ref="char:EOLhyphen"/>tur</hi> is in 26. degrees, and 43. min. of <hi>Aries. Mars</hi> is in 21. degrees, and 59. min of <hi>Leo.</hi> The Sunne is in 25. degrees, and 30. min. of <hi>Scorpio. Venus</hi> is in 60. degrees, and 24. min. of <hi>Scorpio. Mercurie</hi> is in 28. degrees, and 10. min. of <hi>Scorpio. Caput Draconis</hi> is in 23. degrees, and 40. minuts of <hi>Scorpio. Cauda Draconis</hi> is in 23. de<g ref="char:EOLhyphen"/>grees and 40. minutes of <hi>Taurus. Saturne</hi> is Occidentall. <hi>Iupiter</hi> Occidentall. <hi>Mars</hi> is Orientall. <hi>Venus</hi> is Occidentall, <hi>Mercu<g ref="char:EOLhyphen"/>rie</hi> is Occidentall.</p>
+               <pb facs="tcp:18725:25"/>
+               <p>THe Lord God amongſt other thinges hath gyuen vs certaine tokens, to wit: that afore his comming, there ſhall bee a darkning of the Sunne and Moone, that the qualities of the heauens ſhall be troub<g ref="char:EOLhyphen"/>led: By which wordes no doubt hee would ſignifie, that the whole firmament of ſtars ſhould be altred, and as it were threaten a deſtruction, &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>Anno Dom. 1586. menſis Aprilis.</head>
+               <p>The effectes of theſe meetinges ſhall euide<g ref="char:cmbAbbrStroke">̄</g>tly appeare: at which time, there ſhal fall out 12. Coniunctions in <hi>Aries,</hi> a fierye Triplicitie.</p>
+               <p>
+                  <list>
+                     <head>At the houre of Noone.</head>
+                     <label>☌ ♄ ☉</label>
+                     <item>The 2. daye of April <hi>Sol</hi> in 21. degree, and 46. min. in <hi>Aries,</hi> applyeth to a Coniunc<g ref="char:EOLhyphen"/>tion of ♄. in the 22. degrees, and 8. min of <hi>Aries.</hi>
+                     </item>
+                     <pb facs="tcp:18725:25"/>
+                     <label>☌ <g ref="char:Moon">☽</g> ♀</label>
+                     <item>The 7. day of April the Moon in 10. degrees, 37. min of <hi>Ari<g ref="char:EOLhyphen"/>es,</hi> &amp; applyeth to ☌ Venus in y<hi rend="sup">e</hi> 18. degrees. 16. minuts in the ſame ſigne.</item>
+                     <label>☌ <g ref="char:Moon">☽</g> ☿</label>
+                     <item>The 7. day of Aprill y<hi rend="sup">e</hi> Moone in <hi>Aries</hi> 10. degrees, and 37. mi. in aplication, to a co<g ref="char:cmbAbbrStroke">̄</g>iunctio<g ref="char:cmbAbbrStroke">̄</g> ☌ of <hi>Mercurie,</hi> &amp; <hi>Mercurie</hi> is 17. degres, and 33. min. in the ſame ſigne.</item>
+                     <label>☌ <g ref="char:Moon">☽</g> ♂</label>
+                     <item>The 7. day of Aprill y<hi rend="sup">e</hi> Moone in <hi>Aries,</hi> 10. degrees, 37. min. in application to a Coniuncti<g ref="char:EOLhyphen"/>on of <hi>Mars,</hi> and <hi>Mars</hi> is 18. degrees, and 5. minutes in the ſame ſigne.</item>
+                     <label>☌ <g ref="char:Moon">☽</g> ♄</label>
+                     <item>The 8 day of April, the moone in ♈ 22. degrees, and 25. min. in application to a Coniunc<g ref="char:EOLhyphen"/>tion of <hi>Saturne,</hi> and <hi>Saturne</hi> is 22. degrees, 56. minuts in the ſame ſigne.</item>
+                     <pb facs="tcp:18725:26"/>
+                     <label>☌ ♀ ☿</label>
+                     <item>The 8. day of April again <hi>Venus</hi> in <hi>Aries</hi> 19. degrees, and 30. minutes, in Coniunc<g ref="char:EOLhyphen"/>tion with ☿ in the ſame de<g ref="char:EOLhyphen"/>grees of ♈ full.</item>
+                     <label>☌ ☉ <g ref="char:Moon">☽</g>
+                     </label>
+                     <item>The 8. daye of Aprill, the Moone in 22. degrees, and 25. minutes of <hi>Aries,</hi> in ap<g ref="char:EOLunhyphen"/>plication to a Coniunction of the Sunne, in 27. degrees, &amp; 38. min. in the ſame ſigne.</item>
+                     <label>☌ ♂ ☿</label>
+                     <item>The 8. day of Aprill again, a Coniunction of <hi>Mars</hi> and <hi>Mercurie</hi> in <hi>Aries.</hi>
+                     </item>
+                     <label>☌ ♄ ☿</label>
+                     <item>The 9. daye of Aprill, <hi>Mercurie</hi> in <hi>Aries</hi> 21. degres, and 21. minutes, in applyca<g ref="char:EOLunhyphen"/>tion to a Coniunction of <hi>Saturne,</hi> and ♄ is 23. degres, and 40. minutes in the ſame ſigne.</item>
+                     <pb facs="tcp:18725:26"/>
+                     <label>☌ ♄ ♀</label>
+                     <item>The 13. day of Aprill, a Coniunction of <hi>Saturne</hi> and <hi>Venus</hi> in <hi>Aries.</hi>
+                     </item>
+                     <label>☌ ♄ ♂</label>
+                     <item>The 14. daye of April <hi>Mars</hi> in <hi>Aries</hi> 23. degrees, and 23. minutes, in applycation to a Coniunction of <hi>Saturne,</hi> in 23. degrees, and 43. minutes in the ſame ſigne.</item>
+                     <label>☌ ♂ ♀</label>
+                     <item>The 14. daye of Aprill, a Coniunctio<g ref="char:cmbAbbrStroke">̄</g> of <hi>Mars</hi> and <hi>Ve<g ref="char:EOLhyphen"/>nus</hi> in <hi>Aries.</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+            <div type="table">
+               <pb facs="tcp:18725:27"/>
+               <p>
+                  <table>
+                     <head>Anno Reparatae <hi>Sa<g ref="char:EOLhyphen"/>lutis. 1588. intercalari.</hi>
+                     </head>
+                     <row>
+                        <cell>Aurcus Numerus.</cell>
+                        <cell>12</cell>
+                     </row>
+                     <row>
+                        <cell>Cyclus Solaris.</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>Litera Dominicalis.</cell>
+                        <cell>G. F.</cell>
+                     </row>
+                     <row>
+                        <cell>Indictio Romana.</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>Interuallum.</cell>
+                        <cell>Hebd. 7. di. 6.</cell>
+                     </row>
+                     <row>
+                        <cell>Septuageſima.</cell>
+                        <cell>4. Februarii.</cell>
+                     </row>
+                     <row>
+                        <cell>Quadrageſima.</cell>
+                        <cell>25. Februarii.</cell>
+                     </row>
+                     <row>
+                        <cell>Paſca verum.</cell>
+                        <cell>7. Aprilis.</cell>
+                     </row>
+                     <row>
+                        <cell>Rogationes.</cell>
+                        <cell>12. Maii.</cell>
+                     </row>
+                     <row>
+                        <cell>Aſcentio Domini.</cell>
+                        <cell>16. Maii</cell>
+                     </row>
+                     <row>
+                        <cell>Pentecoſte.</cell>
+                        <cell>26. Maii.</cell>
+                     </row>
+                     <row>
+                        <cell>Aduentus domini.</cell>
+                        <cell>1. decembris.</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:18725:27"/>
+               <figure>
+                  <figDesc>two lunar eclipses</figDesc>
+                  <head>Plenilunia duo Ecliptica. <hi>Die 2. Mar. hora 13. 42. Die. 25. Aug. hora. 16. ſcr.</hi> 49.</head>
+                  <p>
+                     <figure>
+                        <p>Digiti Eclip<g ref="char:EOLhyphen"/>tici. 17. ¼</p>
+                        <p>Tempus in<g ref="char:EOLhyphen"/>cidentiae. 1. ho. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</p>
+                        <p>Mora dimi<g ref="char:EOLhyphen"/>dia. o. 46.</p>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <p>Digiti E<g ref="char:EOLhyphen"/>cliptici. 18. 17.</p>
+                        <p>Te<g ref="char:cmbAbbrStroke">̄</g>pus in<g ref="char:EOLhyphen"/>cidentiae ho ra 16.</p>
+                        <p>Moradimi<g ref="char:EOLhyphen"/>dia. o. 51.</p>
+                     </figure>
+                  </p>
+                  <head>The two fearfull Eclipſes of the Moone. <hi>Regreſsus Planetarum.</hi>
+                  </head>
+               </figure>
+               <list>
+                  <item>♄ à penultima Auguſti vſque in anni finem retrocedet.</item>
+                  <item>♃ regreditur vſque in 25. Martii: inde progreditur vſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> in 24 dece<g ref="char:cmbAbbrStroke">̄</g>.</item>
+                  <item>♂ hoc anno ſemper progreditur.</item>
+                  <item>♀ poſt 5. Septembris regredietur vſque in 17. Octobris.</item>
+                  <item>☿ ab initio anni vſque in 22. Ianuarii. Iterum à 25. Aprilis vſque in 18. Aprilis.</item>
+                  <item>Tertium à 20. Auguſti in 12. Septembris. Quartum poſt 14. Decembris vltra ſinem anni regreditur.</item>
+               </list>
+               <pb facs="tcp:18725:28"/>
+               <p>The full Eclipſe ſhal be at one of the clock, and 42. minutes after midnight.</p>
+               <figure>
+                  <figDesc>astrological chart</figDesc>
+                  <head>The 1. of theſe 2. Eclip<g ref="char:EOLhyphen"/>ſes of the moone, this yeere 1588. ſhalbe the 2. daye of Marche 13. in hours 42. minutes. Figura. Erected for the meridi<g ref="char:EOLhyphen"/>an of the citie of Londo<g ref="char:cmbAbbrStroke">̄</g>, the Polus Article being raiſed 51. deg. 44. 32.</head>
+               </figure>
+               <p>THe colour of the Moone in this E<g ref="char:EOLhyphen"/>clipſe ſhall not bee redd, but declyning to a dark brown colour: the other Coniec<g ref="char:EOLhyphen"/>tures of y<hi rend="sup">t</hi> influe<g ref="char:cmbAbbrStroke">̄</g>ce or effects therof, I leaue them till ſuch time as I write my Progno<g ref="char:EOLhyphen"/>ſtication for this yeare, if it pleaſe God ſo long to continue my lyfe, in the mean time
+<pb facs="tcp:18725:28"/> good gentle reader take this in good pare, and beare with mee in this my ſimple ſkil. In this Eclipſe ſetting forth, the Aſcende<g ref="char:cmbAbbrStroke">̄</g>t is the 22. degree, and 12. min. of <hi>Sagitari<g ref="char:EOLhyphen"/>us.</hi> The 2. houſe, 28. degree, and 57. min. of <hi>Capricornus.</hi> The 3. houſe, 22. degree, and 35. min. of <hi>Aquarius.</hi> The 4. houſe, the 27. of Aries. The 5. houſe, the 16. degree, and 33. min. of <hi>Taurus.</hi> The 6. houſe, 2. de<g ref="char:EOLhyphen"/>gree, and 43 min. of <hi>Geminie</hi> The 7 houſe the 22. degree, and 4<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. min. of <hi>Geminie.</hi> The 8. houſe, the 28 degree, &amp; 57. minu. of <hi>Cancer.</hi> The 9. houſe, the 22. degree, &amp; 35. min. of <hi>Leo.</hi> The 10. houſe, the 27. degree of <hi>Libra.</hi> The 11. houſe, the 16. degre, &amp; 33 mi. of <hi>Scorpio.</hi> The 12. houſe, y<hi rend="sup">e</hi> 2. de. &amp; 43 mi. of <hi>Sagit.</hi> The ſun in the 22. de. &amp; 14 min of <hi>Piſces. Venus</hi> in the 12. degree, &amp; 26 mi. of <hi>Aries. Mercurie</hi> in y<hi rend="sup">e</hi> 13. de. &amp; 2. mi. of <hi>Piſces. Saturne</hi> in the 12. deg. &amp; 23. min. of <hi>Taurus. Iupiter</hi> in the 7. deg. and 52 mi. of <hi>Leo. Mars</hi> in the 7. deg. and 3. min. of <hi>Ari<g ref="char:EOLhyphen"/>es.</hi> The Moone in the 21. deg., &amp; 13. mi. of <hi>Virgo. Pars Fortunae</hi> in y<hi rend="sup">e</hi> 23. de. &amp; 14. m. of <hi>Geminie. Caput Draconis</hi> in the 9. degree and 43. min of <hi>Virgo. Canda Draconis</hi> in the 9. degree, and 43. min. of <hi>Piſces.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:18725:29"/>
+               <head>¶ This Eclipſe of the Moone ſhall be at 6. of the clocke, and 49. min. at night, the colour of the Moone white, and ſhall appeare a li<g ref="char:EOLhyphen"/>tle after the ſun is ſet.</head>
+               <figure>
+                  <figDesc>astrological chart</figDesc>
+                  <head>An other celeſtial Schea<g ref="char:cmbAbbrStroke">̄</g>e of the 2. Eclipſes of the Moone this preſe<g ref="char:cmbAbbrStroke">̄</g>t yeere 1588. the 25. day of Au<g ref="char:EOLhyphen"/>guſt, hora 16. ſcrip. 49. Calculated for the Me<g ref="char:EOLhyphen"/>ridian of the citie of Lo<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>don. Polus 51. deg. 24. 32.</head>
+               </figure>
+               <p>The Aſcendent is y<hi rend="sup">e</hi> 21. degree, &amp; 20 mi. of <hi>Aquarius.</hi> The 2. houſe 25. and 28.
+<pb facs="tcp:18725:29"/> min of <hi>Aries.</hi> The 3. houſe the 27. degree and 59. min. of <hi>Taur.</hi> The 4. houſe the 14. degree of <hi>Gemini.</hi> The 5. houſe the 27. de<g ref="char:EOLhyphen"/>gree and 1. min. of <hi>Gemini.</hi> The 6. houſe 14. degree and 11. min of <hi>Cancer.</hi> The 7. houſe the 21. degrees &amp; 20. mi. of <hi>Leo.</hi> The 8. houſe the 25. degree &amp; 28 min. of <hi>Libra.</hi> The 9. houſe is the 27. degree &amp; 59. min. of <hi>Scorp.</hi> The 10. houſe 14. degrees of <hi>Sagit.</hi> The 11. houſe the 27. degree &amp; 1. min. of <hi>Sagit.</hi> The 12 houſe is the 14. de<g ref="char:EOLhyphen"/>gree &amp; 11. min. of <hi>Capric.</hi> The Sun in the 12. degree and 4 min. of <hi>Virgo. Venus</hi> in the 17. degrèe and 40. min. of <hi>Libra. Mer<g ref="char:EOLhyphen"/>curie</hi> in the 26. degree &amp; 50. min. of <hi>Virgo. Saturne</hi> in 0 degree and 27. min of <hi>Gem. Iupiter</hi> in the 1. degree and 6. min. of <hi>Virg. Mars</hi> in the 9. degree &amp; 45. min. of <hi>Leo.</hi> The Moone in the 6. degree and 19. min. of <hi>Piſces. Pars fortunae</hi> in 15. degrees &amp; 31 min. of <hi>Cancer. Caput Draconis</hi> in the 10. degree. and 25. min. of <hi>Virgo, Cauda Dra conis</hi> in the 10. degree &amp; 25. mi. of <hi>Piſces.</hi>
+               </p>
+               <p>Heere is the tune that <hi>Cipryan</hi> in his verſes turned in ryme maketh mention of, <hi>The time waxeth ſhort, and the day of the Lordes comming to iudgement
+<pb facs="tcp:18725:30"/> by all ſignes and tokens cannot be farre off.</hi> Therefore good brethren in Chriſt be mindfull of the Lords comming: let vs call vpon his holy name by deuout prayers and ſupplications: Let vs make our ſub<g ref="char:EOLhyphen"/>miſſion vnto his glorious maieſtie: Let vs acknowledge our offences, and bewayle our manifolde ſinnes and wickedneſſe: Let vs be hartilie ſorie for theſe our miſdoings, whoſe heauie burdens are intollerable: let vs craue mercy &amp; forgiueneſſe at the Lords hand: Let vs frame a newe and godly life: Let vs alwayes haue the Lordes comming in our remembrance: Let vs meditate vn<g ref="char:EOLhyphen"/>to him by deuout prayers, and moſt humble ſupplications aſke all things of him, prayſe hym, truſt in hym, and giue him the honor and worſhippe belonging to his glorious Maieſtie: Let vs not neglect holy medi<g ref="char:EOLhyphen"/>tations and prayers, but continually pray. It is written (Gentle Reader) that in the beginning, in the dayes of <hi>Seth</hi> the ſonne of <hi>Adam,</hi> the people firſt began to inuo<g ref="char:EOLhyphen"/>cate &amp; call vpo<g ref="char:cmbAbbrStroke">̄</g> the name of God by deuout prayer, &amp; this maner of praying was vſed a<g ref="char:EOLhyphen"/>mo<g ref="char:cmbAbbrStroke">̄</g>g y<hi rend="sup">e</hi> fathers fro<g ref="char:cmbAbbrStroke">̄</g> 
+                  <hi>Noah</hi> vntyl the co<g ref="char:cmbAbbrStroke">̄</g>ming
+<pb facs="tcp:18725:30"/> of Chriſt, and they did frequent the ſame as a ſpeciall meane and way to craue of God his mercie, his grace, and his aſſiſtance. By prayer alſo, they did ſet forth the glory of God, appeaſed his wrath and diſpleaſure, and rendred him thankes for his benefites receiued. Chriſte our Sauiour after his comming, taught it alſo as a moſt neceſſary &amp; comfortable doctrine, whereby we might craue of our heauenly father, not onely all thinges neceſſarie and requiſite for vs (as appeareth in the prayer which hee taughte his Diſciples:) but alſo forgiuenes of ſins to the attainement of euerlaſting life. And therefore may wee well ſay, that as the vſe thereof is worthie prayſe, ſo the want ther<g ref="char:EOLhyphen"/>of is to be blamed. For where prayer is not frequented, there God is not ſerued &amp; cal<g ref="char:EOLhyphen"/>led vpon for his grace and aſſiſtance, neither is he thanked for his gracious benefites, the free gift of his mercie is not deſired, neither is the horrible puniſhmente of his iuſtice feared. But who may not now (thinkeſt thou Gentle Reader) rightly ſay to y<hi rend="sup">e</hi> world as <hi>Ionas</hi> ſaide to the <hi>Niniuits: There are yet 40. dayes, &amp; Niniuie ſhalbe deſtroied.</hi>
+                  <pb facs="tcp:18725:31"/> The people no ſooner heard the Prophete denounce deſtruction to come on them, for their ſinnes, but immediatly, euen at the firſt crying of him, with trembling &amp; feare, tur<g ref="char:EOLhyphen"/>ned to God, beleeued in him, feared his iu<g ref="char:EOLhyphen"/>ſtice, confeſſed their ſinnes, &amp; with penitent harts craued his mercie. But good Chriſtia<g ref="char:cmbAbbrStroke">̄</g> brother whome it hath pleaſed God to cal, not by the mouth of one man, as hee did the <hi>Niniuites</hi> (for he hath called vs by ſundrie meanes) therfore doeſt thou not regard his calling? wherfore to thee it may be thus ſaid: The more God ſeeketh thee, the more thou ſhunneſt him: the more he loueth thee, the leſſe thou regardeſt him: the more thou nee<g ref="char:EOLhyphen"/>deſt him, the leſſe thou thinkeſt on him: So that by thy great unkindneſſe, God is com<g ref="char:EOLhyphen"/>pelled to ſay vnto thee, as he ſaid to the Iſ<g ref="char:EOLhyphen"/>raelites, <hi>I am ouerwearied with bearing and long ſuffering of thy wicked and ſin<g ref="char:EOLhyphen"/>full liuing.</hi> If thou therefore deſire to be freed from the horrible plagues and threat<g ref="char:EOLhyphen"/>nings of God, thou muſt (like a true <hi>Nini<g ref="char:EOLhyphen"/>uite)</hi> with a broken and penitent heart, call vpon God with co<g ref="char:cmbAbbrStroke">̄</g>tinuall praier, &amp; crauing of him his mercie, grace, &amp; aſſiſtance, which if thou aſke with a true faith, he will graunt
+<pb facs="tcp:18725:31"/> it thee. Finally, if thou couet to bee happie and bleſſed, let no day paſſe thee, but that thou once at the leaſt preſent thy ſelf before God by prayer, and falling downe before him, with an humble diſpoſition of deuoute minde (not from the mouth, but from the heart inwardly:) crie with the Prophete Dauid, <hi>O Lord, the offences of my youth, and mine ignorances remember not: but after thy mercy and goodnes O Lord remember me. Pſal.</hi> 25. 5.</p>
+            </div>
+            <div type="closing_prayer">
+               <head>A prayer for true repentance, and for the comming of the kingdome of Chriſt.</head>
+               <p>O Lord, and our God Ieſus Chriſt, the Scripture teſtifieth of thee, that when thou waſt in the worlde, thou diddeſt preach repentance, and the comming of the kingdome of heauen, and after thou waſt riſen againe, thou ſaydeſt, y<hi rend="sup">t</hi> it behoued thee ſo to ſuffer, &amp; on the third day to riſe againe from the dead, and that both repentance &amp; remiſſion of ſins ſhoulde be preached to euery creature in thy name, and that whoſoeuer beleeued and were bap<g ref="char:EOLhyphen"/>tiſed, ſhould be ſaued. Againe, then full lo<g ref="char:EOLhyphen"/>uingly
+<pb facs="tcp:18725:32"/> diddeſt bid them that labour and are laden to com vnto thee, &amp; promiſedſt that thou wouldeſt vnlade and refreſh them: ve<g ref="char:EOLhyphen"/>rily it is no ſmall company of wicked ſpi<g ref="char:EOLhyphen"/>rites cleaueth, which are alſo as roaring Lio<g ref="char:cmbAbbrStroke">̄</g>s, &amp; earneſt accuſers of y<hi rend="sup">e</hi> ſonnes of god, yea, and ſuch enemies of God, &amp; of the<g ref="char:cmbAbbrStroke">̄</g> that appertaine vnto him, as by no meanes ney<g ref="char:EOLhyphen"/>ther will nor may be reconciled. There<g ref="char:EOLhyphen"/>fore wee, and all of vs, which thorowe thy grace are bounde and giuen ouer to ſerue God: Moſt humbly beſeeche thee O holy ſpirite that thou wilt defend vs againſt all the wicked temptations &amp; pernicious brea<g ref="char:EOLhyphen"/>things of this moſt wicked ſpirite, that all vice excluded, all vertue and godlineſſe may ſpring, grow, and increaſe in vs vntill wee be made perfect and auncient in Chriſt Ie<g ref="char:EOLhyphen"/>ſu our Lorde, and his holy lawe. Take a<g ref="char:EOLhyphen"/>away infidelitie, and ingraft in our breaſtes a true and vnfained faith, take away pride, wrath, enuy, debate, whoredome, gluttonie, drunkenneſſe, couetouſnes, errour, hypocri<g ref="char:EOLhyphen"/>ſie, with all kinde of vngodlines, and priute in our heartes humilitie, loue, chaſtitie, and concord, purity of life, temperance, ſobriety, mercy, liberalitie towards the poore, truth,
+<pb facs="tcp:18725:32"/> pure holynes, with all kind of vertue: take away from vs all that euer is of Satan, the fleſh, and the worlde, and giue vs that which only commeth from thee O heaue<g ref="char:cmbAbbrStroke">̄</g>ly father, and from thy only begotten ſonne, &amp; from the holy ſpirit: Teach vs all truth, enarme vs with the ſhield of true faith, that we may ſo watche and ſhew ſuch diligence, that wee may perceiue his craftie aſſaultes and dan<g ref="char:EOLhyphen"/>gers, vnto the end that wee liue not hereaf<g ref="char:EOLhyphen"/>in the fleſh, but rather that we abhorre al fil<g ref="char:EOLhyphen"/>thineſſe, and impuritie thereof, and that wee beeing brought into thy kingdome, thorow thy precious blood, may obtaine dayly more and more perfect remiſſion of our ſinnes. So be it.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imp<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nted at London by Thomas Dawſon, at the three Cranes in <hi>the Viniree, at the aſſignement of</hi> R. W. 1583.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
